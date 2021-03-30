@@ -1,0 +1,17 @@
+.box {
+    border: 1px solid #000;
+    margin: 5px;
+    padding: 5px;
+}
+
+#green{
+    background-color: green;
+}
+
+.container .box:hover{
+    background-color: yellow;
+}
+
+#red {
+    color: red;
+}
